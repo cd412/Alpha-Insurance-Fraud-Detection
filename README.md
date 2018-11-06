@@ -8,9 +8,7 @@ You have been hired by Alpha Insurance to develop predictive models to determine
 * Jeff Moise
 * Robert Shea
   
- Bryant University
- 
- Fall 2018
+ Bryant University ~ Fall 2018
  
  ## Hypothesis
  These variables appear to be the best for detecting fraudulent claims: 
