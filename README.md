@@ -14,7 +14,7 @@ You have been hired by Alpha Insurance to develop predictive models to determine
  These variables appear to be the best for detecting fraudulent claims: 
  * Claim Amount - Uncommonly high claim amounts are more likely to be fraudulent.
  * Claim Cause - The more severe claim causes (fire and collision) will be less likely to be fraudulent.
- * Claim Report Type - flaud claims will be reported with as little human interaction as possible.
+ * Claim Report Type - Fraud claims will be reported with as little human interaction as possible.
  * another one
  * and one more
  
