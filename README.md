@@ -15,8 +15,8 @@ You have been hired by Alpha Insurance to develop predictive models to determine
  * Claim Amount - Uncommonly high claim amounts are more likely to be fraudulent.
  * Claim Cause - The more severe claim causes (fire and collision) will be less likely to be fraudulent.
  * Claim Report Type - Fraud claims will be reported with as little human interaction as possible.
- * Employment Status - Claimants who are not currently employed are more likely to report fraudelent claims.
- * Income - The higher the level of education, the less likely reports are to be fraudelent. (This may also be linked with income)
+ * Employment Status - Claimants who are not currently employed are more likely to report fraudulent claims.
+ * Income - The higher the level of education, the less likely reports are to be fraudulent. (This may also be linked with income)
  
  
  Some of the variables appear to be redundant such as State Code/State, and Monthly Premium/Annual Premium. Only one variable from each pair will be useful.
