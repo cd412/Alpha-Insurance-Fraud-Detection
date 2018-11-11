@@ -18,5 +18,20 @@ You have been hired by Alpha Insurance to develop predictive models to determine
  * Employment Status - Claimants who are not currently employed are more likely to report fraudulent claims.
  * Income - The higher the level of education, the less likely reports are to be fraudulent. (This may also be linked with income)
  
- 
- Some of the variables appear to be redundant such as State Code/State, and Monthly Premium/Annual Premium. Only one variable from each pair will be useful.
+ ## Process
+#### Data Exploration
+ * Univariate exploration
+ * Bivariate exploration
+#### Transformations
+ * Impute missing values
+ * Handle outliers
+ * Transform variables with functions
+ * Transform variables with binning
+ * Encoding
+ * Balancing Sample
+#### Modeling
+ * Regression
+ * Decision Tree
+ * Neural Network
+ * Other
+ * Model Selection
