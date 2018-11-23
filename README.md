@@ -35,3 +35,9 @@ You have been hired by Alpha Insurance to develop predictive models to determine
  * Neural Network
  * Other
  * Model Selection
+ 
+ ## Sources
+ * How to encode categorical data: https://www.datacamp.com/community/tutorials/categorical-data
+ * Random undersampling: 
+ * Credit card fraud example: https://github.com/IBM/xgboost-smote-detect-fraud
+  
